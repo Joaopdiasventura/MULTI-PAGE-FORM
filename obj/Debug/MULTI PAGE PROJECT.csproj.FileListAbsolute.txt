@@ -1,0 +1,13 @@
+C:\Users\Alunos\Desktop\MULTI PAGE PROJECT\bin\Debug\MULTI PAGE PROJECT.exe.config
+C:\Users\Alunos\Desktop\MULTI PAGE PROJECT\bin\Debug\MULTI PAGE PROJECT.exe
+C:\Users\Alunos\Desktop\MULTI PAGE PROJECT\bin\Debug\MULTI PAGE PROJECT.pdb
+C:\Users\Alunos\Desktop\MULTI PAGE PROJECT\obj\Debug\MULTI PAGE PROJECT.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\MULTI PAGE PROJECT\obj\Debug\MULTI PAGE PROJECT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alunos\Desktop\MULTI PAGE PROJECT\obj\Debug\MULTI_PAGE_PROJECT.Form1.resources
+C:\Users\Alunos\Desktop\MULTI PAGE PROJECT\obj\Debug\MULTI_PAGE_PROJECT.Properties.Resources.resources
+C:\Users\Alunos\Desktop\MULTI PAGE PROJECT\obj\Debug\MULTI PAGE PROJECT.csproj.GenerateResource.cache
+C:\Users\Alunos\Desktop\MULTI PAGE PROJECT\obj\Debug\MULTI PAGE PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\MULTI PAGE PROJECT\obj\Debug\MULTI PAGE PROJECT.exe
+C:\Users\Alunos\Desktop\MULTI PAGE PROJECT\obj\Debug\MULTI PAGE PROJECT.pdb
+C:\Users\Alunos\Desktop\MULTI PAGE PROJECT\obj\Debug\MULTI_PAGE_PROJECT.AboutBox.resources
+C:\Users\Alunos\Desktop\MULTI PAGE PROJECT\obj\Debug\MULTI_PAGE_PROJECT.AboutBox1.resources
