@@ -23,5 +23,12 @@ namespace MULTI_PAGE_PROJECT
             np.Show();
             this.Hide();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            controls nt = new controls();
+            nt.Show();
+            this.Hide();
+        }
     }
 }
